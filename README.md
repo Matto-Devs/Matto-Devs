@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/ImAhmadd_" target="blank"><img src="https://img.shields.io/twitter/follow/ImAAhmad?logo=twitter&style=for-the-badge" alt="ImAAhmad_" /></a> </p>
 
-- 🔭 I’m currently working on **Havoc**
+- 🔭 I’m currently working on a **Bunch of different things**
 
 - 🌱 I’m currently learning **Js , C++ , C , Python , etc . **
 
